@@ -1,0 +1,35 @@
+dependencies: \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTRootView.m \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTRootView.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTLog.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTUtils.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/RCTView.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/RCTComponent.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Base/RCTConvert.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/suntec-HD/DEV_ZONE/react_native/basics/TheBasics/node_modules/react-native/React/Views/UIView+React.h
